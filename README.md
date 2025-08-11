@@ -1,5 +1,5 @@
 # Gourav Sharma
-**Full-Stack Developer | DevSecOps Enthusiast | Tech Explorer**  
+**Full-Stack Developer | Tech Explorer**  
 📍 Delhi, India | 📧 gouravsharma.s172@gmail.com | 🔗 [GitHub](https://github.com/gouravsharma1711) | [LinkedIn](https://www.linkedin.com/in/gourav-sharma-682a8525b/)
 
 ---
