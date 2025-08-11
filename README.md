@@ -1,16 +1,36 @@
-## Hi there 👋
+# Gourav Sharma
+**Full-Stack Developer | DevSecOps Enthusiast | Tech Explorer**  
+📍 Delhi, India | 📧 gouravsharma.s172@gmail.com | 🔗 [GitHub](https://github.com/gouravsharma1711) | [LinkedIn](https://www.linkedin.com/in/gourav-sharma-682a8525b/)
 
-<!--
-**gouravsharma1711/gouravsharma1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+Hi! I'm **Gourav Sharma**, a Computer Science student at **Maharaja Agrasen Institute of Technology (GGSIPU)**.  
+I’m passionate about building **scalable web applications**, exploring **new technologies**, and creating impactful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, Python  
+- **Technologies / Frameworks:** MongoDB, Node.js, Express.js, React.js  
+- **Developer Tools:** VS Code, IntelliJ IDEA, Postman  
+- **Relevant Courses:** Object-Oriented Programming, Data Structures & Algorithms in Java  
+
+---
+
+## 📜 Certifications
+- 🏆 **Build Wars Web Development Hackathon** – MindFlare  
+- 🏆 **Hack for Impact Hackathon** – IIIT Delhi  
+- 🎓 **Full Stack Web Development** – PW Skills  
+- 🎓 **Intro to Python** – DataCamp  
+- 🎓 **DSA in Java** – Apna College  
+
+📂 **All Certificates:** [Google Drive Folder](https://drive.google.com/drive/folders/1g8rMqUs4baN4q89qTahUIAsODiEjc_GX?usp=sharing)
+
+---
+
+## 🏅 Achievements
+- 🥈 **2nd Prize** – Hack for Impact Hackathon, IIIT Delhi  
+- 🏆 **Top 6 Finalist** – Build Wars Hackathon, MindFlare & MAIT  
+
+---
