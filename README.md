@@ -1,5 +1,5 @@
 # Gourav Sharma
-**WEB App Developer | Full-Stack (MERN) | AI & Automation**
+**AI full-stack developer(MERN)| AI & Automation**
  
 📍 Delhi, India | 📧 [gouravsharma.s172@gmail.com](mailto:gouravsharma.s172@gmail.com) | 🔗 [GitHub](https://github.com/gouravsharma1711) | [LinkedIn](https://www.linkedin.com/in/gourav-sharma-682a8525b/) | [Portfolio](https://portfolio-ou0h.onrender.com/)
  
