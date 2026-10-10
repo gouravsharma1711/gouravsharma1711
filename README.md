@@ -1,5 +1,5 @@
 # Gourav Sharma
-**Application Developer | Full-Stack (MERN) | AI & Automation**
+**WEB App Developer | Full-Stack (MERN) | AI & Automation**
  
 📍 Delhi, India | 📧 [gouravsharma.s172@gmail.com](mailto:gouravsharma.s172@gmail.com) | 🔗 [GitHub](https://github.com/gouravsharma1711) | [LinkedIn](https://www.linkedin.com/in/gourav-sharma-682a8525b/) | [Portfolio](https://portfolio-ou0h.onrender.com/)
  
@@ -10,7 +10,7 @@ Hi! I'm **Gourav Sharma**, a Computer Science and Engineering graduate from **Ma
  
 I enjoy developing and integrating REST APIs, automating workflows to cut delivery time, and exploring **AI/GenAI** (LangChain, RAG, facial-recognition-based authentication). I'm especially interested in cognitive process automation and conversational AI.
  
-🔍 **Currently seeking an entry-level Application Developer role.**
+🔍 **Currently seeking an entry-level Developer role.**
  
 ---
  
@@ -27,12 +27,12 @@ I enjoy developing and integrating REST APIs, automating workflows to cut delive
 `MongoDB` `Express.js` `React.js` `Node.js` `Face-api.js`
 - Secure medical records system with role-based access control to protect sensitive patient data.
 - AI-powered facial recognition (face-api.js) for user authentication using face detection and facial feature embeddings.
-- [Live Demo](#) | [GitHub Repo](#)
+- [Live Demo](https://med1plus-frontend.onrender.com/) | [GitHub Repo](https://github.com/gouravsharma1711/Med1Plus)
 ### 🎬 Video Streaming Platform *(Aug – Sep 2025)*
 `MongoDB` `React.js` `Node.js` `Express.js`
 - Full-stack MERN video platform with secure auth, video upload, likes, comments, and channel subscriptions.
 - Designed and implemented secure REST APIs for core functionality.
-- [Live Demo](#) | [GitHub Repo](#)
+- [Live Demo](https://videosharingplatformfrontend.onrender.com/) | [GitHub Repo](https://github.com/gouravsharma1711/VideoSharingPlatform)
 ---
  
 ## 🚀 Tech Stack
